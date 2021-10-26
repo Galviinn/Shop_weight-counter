@@ -4,9 +4,9 @@ using namespace std;
 
 float berat;
 int harga;
-float potongan10;
+int potongan10;
 int a, b, c = 0;
-float potongan100;
+int potongan100;
 char ans;
 
 int main(){
